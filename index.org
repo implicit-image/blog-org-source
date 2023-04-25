@@ -1,0 +1,16 @@
+#+title: Index
+
+
+
+
+* this is and index
+:PROPERTIES:
+:ID:       7e7323d4-f140-4f56-8433-b0e789c196ca
+:PUBDATE:  2023-04-25 Tue 03:14
+:END:
+
+
+** [[org:blog/test.org][first post]]
+:PROPERTIES:
+:ID:       7b23057e-ea18-4f02-8a96-fc8321ace6d8
+:END:
